@@ -1,0 +1,11 @@
+package com.tvn.quiz.exercises.exercise15;
+
+/**
+ * Created by user on 3/23/17 02:25.
+ */
+public class Exercise15_2 {
+    public static void main(String[] args) {
+        int num = Integer.parseInt("XYZ");
+        System.out.println(num);
+    }
+}

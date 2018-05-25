@@ -1,0 +1,8 @@
+laptop
+mouses
+desktop
+table
+
+chair
+tablet
+mobile

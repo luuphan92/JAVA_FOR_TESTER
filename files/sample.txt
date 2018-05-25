@@ -1,0 +1,3 @@
+Hello
+This is writer sample
+And this should be the last line
